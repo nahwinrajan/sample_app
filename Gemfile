@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.2.6'
+gem 'bootstrap-sass', '3.2.0.0'
 gem 'sass-rails', '5.0.3' #5.0.1 have bug when generate controller; http://stackoverflow.com/questions/29716284/uninitialized-constant-sassscript-nameerror
 gem 'uglifier', '2.5.3'
 gem 'coffee-rails', '4.1.0'
